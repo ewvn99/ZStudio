@@ -1,0 +1,2 @@
+# ZStudio
+Full custom IDE
